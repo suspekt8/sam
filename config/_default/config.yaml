@@ -3,9 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Samuel Schindler
-baseurl: '' # https://sschindler.netlify.app/
-copyright: '' # Samuel Schindler, e.g. '© {2021} Samuel Schindler'
+title: Samuel Schindler # Name
+baseurl: https://sschindler.netlify.app/ '' # URL
+
+copyright: '© {2021} Samuel Schindler' # Name, e.g. '© {year} name'
 
 ############################
 ## LANGUAGE
