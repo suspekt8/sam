@@ -1,21 +1,16 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: home bio
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I’m associate professor of philosophy of science at the [Centre for Science Studies](https://css.au.dk/) and a member of [Research Unit for Epistemology, Metaphysics, and Philosophy of Cognition](https://cas.au.dk/en/about-the-school/departments/philosophy-and-history-of-ideas/the-research-programme-at-the-department-of-philosophy-and-the-history-of-ideas/research-groups/research-unit-for-epistemology-metaphysics-and-philosophy-of-cognition/) at [Aarhus University](https://www.au.dk/) in Denmark.
+
+My research in general philosophy of science focuses on the theory-evidence relationship, theory choice, prediction, explanation, and discovery. I use the history of science and other empirical methods to complement the philosophical toolbox. My book *[Theoretical Virtues in Science: Uncovering Reality Through Theory](https://samuelschindler.org/books/)* (CUP, 2018) is a culmination of that work.
+
+I also have an interest in meta-philosophy both with regards to philosophy of science and other areas of philosophy. From 2016-2019, I was the PI of the research group on [Intuitions in Science and Philosophy](https://samuelschindler.org/project/), which focused on the (prima facie strange) practice of using intuitive judgements as evidence in both science and philosophy.
+
+My PhD (in philosophy) is from the [University of Leeds](https://ahc.leeds.ac.uk/philosophy) (2008). Prior to my appointment in Aarhus, I taught at the University of Birmingham (UK), and had research fellowships at the universities of Stockholm, Konstanz, and Pittsburgh (as fellow at [Centre for Philosophy of Science](https://www.centerphilsci.pitt.edu/)). I recently visited the Department of Philosophy at the UBC in Vancouver.
