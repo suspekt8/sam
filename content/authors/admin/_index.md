@@ -1,8 +1,7 @@
 ---
 title: Samuel Schindler
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Professor of Philosophy of Science
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -10,19 +9,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: samuel.schindler@css.au.dk
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/samschi
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=OKQAbCQAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/samuel-schindler-b4273b12/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
@@ -41,9 +37,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I’m associate professor of philosophy of science at the [Centre for Science Studies](https://css.au.dk/) and a member of [Research Unit for Epistemology, Metaphysics, and Philosophy of Cognition](https://cas.au.dk/en/about-the-school/departments/philosophy-and-history-of-ideas/the-research-programme-at-the-department-of-philosophy-and-the-history-of-ideas/research-groups/research-unit-for-epistemology-metaphysics-and-philosophy-of-cognition/) at [Aarhus University](https://www.au.dk/) in Denmark.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research in general philosophy of science focuses on the theory-evidence relationship, theory choice, prediction, explanation, and discovery. I use the history of science and other empirical methods to complement the philosophical toolbox. My book *[Theoretical Virtues in Science: Uncovering Reality Through Theory](https://samuelschindler.org/books/)* (CUP, 2018) is a culmination of that work.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also have an interest in meta-philosophy both with regards to philosophy of science and other areas of philosophy. From 2016-2019, I was the PI of the research group on [Intuitions in Science and Philosophy](https://samuelschindler.org/project/), which focused on the (prima facie strange) practice of using intuitive judgements as evidence in both science and philosophy.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My PhD (in philosophy) is from the [University of Leeds](https://ahc.leeds.ac.uk/philosophy) (2008). Prior to my appointment in Aarhus, I taught at the University of Birmingham (UK), and had research fellowships at the universities of Stockholm, Konstanz, and Pittsburgh (as fellow at [Centre for Philosophy of Science](https://www.centerphilsci.pitt.edu/)). I recently visited the Department of Philosophy at the UBC in Vancouver.
