@@ -1,8 +1,12 @@
 ---
 title: Samuel Schindler
 role: Professor of Philosophy of Science
+avatar_filename: samuel-schindler_lk_80_pure_.jpg
 bio: ""
-interests: [Philosophy of Science, History of Science, Experimental Philosophy]
+interests:
+  - Philosophy of Science
+  - History of Science
+  - Experimental Philosophy
 social:
   - icon: envelope
     icon_pack: fas
