@@ -27,7 +27,13 @@ education:
   courses:
     - course: PhD in Philosophy
       institution: University of Leeds
-      year: ""
+      year: 2008
+    - course: MA in History and Philosophy of Science
+      year: 2005
+      institution: University of Leeds
+    - course: BSc in Cognitive Science
+      institution: University of Osnabrück
+      year: 2002
 email: ""
 superuser: true
 highlight_name: false
