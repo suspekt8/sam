@@ -33,7 +33,7 @@ education:
       institution: University of Leeds
     - course: BSc in Cognitive Science
       institution: University of Osnabrück
-      year: 2002
+      year: 2004
 email: ""
 superuser: true
 highlight_name: false
