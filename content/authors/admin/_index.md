@@ -1,6 +1,6 @@
 ---
 title: Samuel Schindler
-role: Professor of Philosophy of Science
+role: Associate Professor of Philosophy of Science
 avatar_filename: samuel-schindler_lk_80_pure_.jpg
 bio: ""
 interests:
